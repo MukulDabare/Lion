@@ -7,7 +7,8 @@ public class Demo {
        System.out.println("Hello");
        System.out.println("In master");
        System.out.println("Create Pull Resques");
-       System.out.println("Create PR");
+       System.out.println("Create PR2");
+       
 	}
 
 }
